@@ -11,6 +11,8 @@ Prebuilt binaries are in the `release` folder:
 - `release/ui/tamtalk-android-debug.apk`
 - `release/vst/*.vst3`
 
+Official releases: https://github.com/NickoCB/TamTalk/releases
+
 ## Default connection
 
 - UDP port: `9240`
