@@ -1,0 +1,1 @@
+# Changelog\n\n## 1.0.0 - 2026-03-04\n\n- First tagged TamTalk release for Android sender + VST3 receiver workflow.\n- VST product renamed to TamTalk VST.\n- Default VST listen port set to 9240.\n- Receiver audio quality improved with jitter buffering and soft-limited mixing.\n

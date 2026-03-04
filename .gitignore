@@ -1,0 +1,33 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# Root release artifacts
+release/
+
+# Android / Gradle
+UI/moble/android/.gradle/
+UI/moble/android/**/build/
+UI/moble/android/local.properties
+UI/moble/android/.idea/
+
+# VST plugin build artifacts
+VST/vst3-plugin/build/
+VST/vst3-plugin/build-*/
+VST/vst3-plugin/*_artefacts/
+VST/vst3-plugin/**/*.obj
+VST/vst3-plugin/**/*.pdb
+VST/vst3-plugin/**/*.ilk
+VST/vst3-plugin/**/*.lib
+VST/vst3-plugin/**/*.exp
+VST/vst3-plugin/**/*.manifest
+
+# JUCE dependency checkout (if treated as external dependency)
+VST/JUCE/
